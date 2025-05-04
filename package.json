@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node --watch index.js"
+    "start-scraping": "node --watch script.js"
   },
   "keywords": [],
   "author": "Ives van Hoorne",
