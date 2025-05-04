@@ -20,8 +20,8 @@ const path = require('path');
 
 // Configuration
 const config = {
-  apiKey: "21b341ae52eccfc579b1ef9a21d79b168f3fd0004333dde81e5e340d4081d4a3",
-  datasetId: "gd_m7dhdot1vw9a7gc1n"
+  apiKey: process.env.BRIGHTDATA_API_KEY,
+  datasetId: process.env.BRIGHTDATA_DATASET_ID
 };
 
 // Validate configuration
