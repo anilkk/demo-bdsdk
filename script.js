@@ -1,6 +1,7 @@
 const { BrightDataClient } = require('akbdsdk');
 const fs = require('fs');
 const path = require('path');
+require('dotenv').config();
 
 /**
  * Example usage of the Bright Data SDK
