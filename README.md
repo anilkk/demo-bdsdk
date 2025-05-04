@@ -8,6 +8,9 @@ This project demonstrates how to use the Bright Data SDK to scrape web content a
 - A Bright Data API key
 - A Bright Data Dataset ID
 
+## Get started quickly with GitPod
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/anilkk/demo-bdsdk) 
+
 ## Setup
 
 1. Clone the repository:
