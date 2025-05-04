@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "Ives van Hoorne",
   "license": "MIT",
-  "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "akbdsdk": "^1.0.8"
+  }
 }
